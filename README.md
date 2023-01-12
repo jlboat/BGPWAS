@@ -7,11 +7,14 @@ A sparse Bayesian Genome-Phenome Wide Association Study model
  * Phenomic data matrix (unimputed\_phenotypes.tsv)
  * Kinship matrix (Kinship.csv.zip)
 
- * bayesplot
- * rstanarm
- * PHENIX - see <https://github.com/jlboat/PHENIX>
+ * Plink - see <https://www.cog-genomics.org/plink/>
+ * R - see  <https://www.r-project.org/>
+ * PHENIX - R package, see <https://github.com/jlboat/PHENIX>
+ * bayesplot - R package
+ * rstanarm - R package
 
-For the SAP, data are available as follows:
+For the SAP, data are available as follows:  
+
 Raw read data: <https://www.ebi.ac.uk/ena/browser/view/PRJEB50066>
 Variants: <https://www.ebi.ac.uk/ena/browser/view/ERZ12588732>
 
